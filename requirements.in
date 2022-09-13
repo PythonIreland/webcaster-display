@@ -1,0 +1,5 @@
+flask
+netifaces
+pillow
+selenium
+zeroconf
